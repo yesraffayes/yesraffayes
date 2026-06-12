@@ -11,14 +11,8 @@
   
 <div align="center">
 
-```text
-┌──────── ⋆⋅☆⋅⋆ ────────┐
-                                                 ɴᴏᴡ ᴘʟᴀʏɪɴɢ 
-                                               Pelangi - Hivi!
-                                      2:03 ━━━━❍━━━━━━ 3:37
-                                                  ↻ ⊲ Ⅱ ⊳ ↺ 
-                               └─────────────────────┘
-```
+![Music Player](https://github-readme-stats.vercel.app/api/pin/?username=yesraffayes&repo=raparchive&show_owner=false&compact=false&bg_color=0D111700&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_color=00000000)
+
 </div>
 <div>
 
