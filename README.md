@@ -31,9 +31,6 @@
   <img src="https://streak-stats.demolab.com/?user=yesraffayes&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="yesraffayes's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=yesraffayes&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Rap's GitHub Trophies" />
-</p>
-<p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=yesraffayes&theme=tokyonight&radius=10" alt="yesraffayes's Activity Graph" />
 </p>
 
