@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Rap&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Informatics%20Student&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Let%20The%20Past%20Die%2C%20Kill%20it%2C%20if%20you%20have%20to.%E2%80%9D%20%E2%80%94%20Kylo%20Ren%2C%20The%20Last%20Jedi" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=I%20Miss%20You" alt="Typing introduction" />
 </p>
 
 <p align="center">
