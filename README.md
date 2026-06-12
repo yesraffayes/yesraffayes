@@ -4,11 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=I%20Miss%20You" alt="Typing introduction" />
 </p>
   
-<div align="center">
+<img width="1920" height="70" alt="image" src="https://github.com/user-attachments/assets/67f5c576-8bbe-467a-b81b-4c6b83d5d508" />
 
-![Music Player](https://github-readme-stats.vercel.app/api/pin/?username=yesraffayes&repo=raparchive&show_owner=false&compact=false&bg_color=0D111700&title_color=ffffff&text_color=ffffff&icon_color=ffffff&hide_border=true&border_color=00000000)
-
-</div>
 <div>
 
 ## 📌 About Me
