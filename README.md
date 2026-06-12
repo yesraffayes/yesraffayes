@@ -3,11 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=I%20Miss%20You" alt="Typing introduction" />
 </p>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=yesraffayes">
-    <img src="https://komarev.com/ghpvc/?username=yesraffayes&label=Profile%20views&color=00FFFF&style=flat-square" alt="yesraffayes's profile views" />
-  </a>
   
 <div align="center">
 
