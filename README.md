@@ -8,7 +8,16 @@
   <a href="https://komarev.com/ghpvc/?username=yesraffayes">
     <img src="https://komarev.com/ghpvc/?username=yesraffayes&label=Profile%20views&color=00FFFF&style=flat-square" alt="yesraffayes's profile views" />
   </a>
-</p>
+<div align="center">
+
+```text
+┌──────── ⋆⋅☆⋅⋆ ────────┐
+                  ɴᴏᴡ ᴘʟᴀʏɪɴɢ 
+                Pelangi - Hivi!
+       2:03 ━━━━❍━━━━━━ 3:37
+                   ↻ ⊲ Ⅱ ⊳ ↺ 
+└─────────────────────┘
+```
 
 ## 📌 About Me
 - 🔭 What I'm Up To
