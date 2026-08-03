@@ -18,6 +18,7 @@
 
 ## 🧠 My Focus Areas
 - 🌐 Web Development
+- 💻 Backend Programer
 - 🕹️ Game Development
 
 
